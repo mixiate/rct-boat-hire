@@ -1,9 +1,7 @@
 {
     "flags": [],
     "sections": [
-        "turns",
-        "diagonals",
-        "s_bends"
+        "turns"
     ],
     "all_new_sections": [
         "turns",
