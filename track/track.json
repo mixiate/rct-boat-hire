@@ -11,7 +11,7 @@
         "s_bends"
     ],
     "z_offset": 0,
-    "length": 0.25,
+    "length": 0.23,
     "masks": "split",
     "models": {
         "mask": "track/mask.obj"
@@ -53,6 +53,8 @@
         "diagonal_gentle_bank": [ 0, 0, 0, 0, 0, 0, 0, 0 ]
     },
     "edge_distance": 1024,
+    "remappable_to_grayscale": true,
+    "remappable_to_grayscale_threshold": 0.6,
     "base_directory": "C:/files/rct-boat-hire/track/",
     "masks_directory": "C:/Files/RCTGen/TrackRender/masks/",
     "sprite_directory": "track/boat_hire/",
